@@ -1,0 +1,56 @@
+h2 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.box {
+    height: 10rem;
+    width: 10rem;
+    color: black;
+    border: black 0.35rem solid;
+    border-radius: 1rem;
+}
+
+.line-1{
+    display: flex;
+    justify-content: center;
+    margin: 0.75rem;
+}
+.line-2{
+    display: flex;
+    justify-content: center;
+    margin: 0.75rem;
+}
+
+.red {
+    background-color: red;
+    margin: 0.75rem;
+}
+.cyan {
+    background-color: cyan;
+    margin: 0.75rem;
+}
+
+.yellow{
+    margin: 0.75rem;
+    background-color: orange;
+}
+.purple{
+    margin: 0.75rem;
+    background-color: blue;
+}
+
+.flash{
+    background-color: white;
+}
+
+.greenflash{
+    background-color: #15F5BA;
+}
+
+.rule{
+    margin-top: 10rem;
+}
